@@ -1,0 +1,14 @@
+{
+    "params":
+    {
+        "loc_server" : "True",
+        "loc_uri" : "mysql+mysqlconnector://root:@localhost/codingthunder",
+        "prod_uri" : "mysql+mysqlconnector://root:@localhost/codingthunder",
+        "gmail_user" : "sanketpatil1228@gmail.com",
+        "gmail_pass" : "sanket1228",
+        "no_of_posts" : 2,
+        "admin_username": "admin",
+        "admin_pass" : "admin",
+        "upload_location" : "C:\\Users\\Sanket\\Desktop\\Sanket\\Python\\Flask\\blogWeb\\static\\uploaded"
+    }
+}
